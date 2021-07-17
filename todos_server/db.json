@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "title": "Meeting",
+      "description": "Meeting at to 10pm",
+      "createdAt": "Sat Jul 17 2021 04:31:17 GMT+0300 (Arabian Standard Time)",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "title": "Travelling",
+      "description": "To bombay on 8th August",
+      "createdAt": "Sat Jul 17 2021 04:32:35 GMT+0300 (Arabian Standard Time)",
+      "status": "Active",
+      "id": 3
+    }
+  ]
+}
